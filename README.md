@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abubakaraliyu
-- 👀 I’m interested in ... Blockchain and AI 
-- 🌱 I’m currently learning ...Python programming
-- 💞️ I’m looking to collaborate on ... Blockchain Enthusiast
-- 📫 How to reach me ... abubakaraliyuhm@gmail.com
+- 👀 I’m interested in Blockchain technology and Artificial Intelligence
+- 🌱 I’m currently learning JavaScript,Golang,Python, C++ among others 
+- 💞️ I’m looking to collaborate with  Blockchain Enthusiasts as well as coders from around the world
+- 📫 How to reach me  abubakaraliyuhm@gmail.com
 
 <!---
 abubakaraliyu/abubakaraliyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
